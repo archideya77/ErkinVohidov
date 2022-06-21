@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+body {
+  background-color: rgb(147, 168, 168);
+}
+.container {
+  max-width: 320px;
+  margin: auto;
+  padding: 0 20px;
+}
+header {
+  background-color: rgb(138, 173, 184);
+  text-align: center;
+  font-size: 35px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.head {
+  color: black;
+  font-weight: 600;
+}
+.title {
+  margin-top: 15px;
+  font-size: 32px;
+}
+.subtitle {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: 500;
+}

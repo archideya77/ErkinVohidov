@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+.container {
+  max-width: 320px;
+  margin: auto;
+  padding: 0 20px;
+}
+body {
+  background-color: rgb(162, 197, 185);
+}
+.title {
+  margin-top: 70px;
+  margin-bottom: 35px;
+  font-size: 35px;
+}
+.subtitle {
+  text-align: center;
+  font-style: italic;
+  font-size: 24px;
+  padding-top: 8px;
+}
+.subtitle:hover {
+  color: aliceblue;
+}
+.sub {
+  margin-top: 10px;
+}
+img {
+  border-radius: 15px;
+  margin-top: 30px;
+}
